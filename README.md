@@ -48,3 +48,37 @@ Images:
 - ! [alt](picture.png)
 + ! [alt][id]
 + ! [id]: picture.png "optionalTitle"
+
+Code:
+
+Inline = `this is code`
+
+```
+This is indented
+```
+
+    This is indented by using 4 spaces
+
+Nested Lists:
+
+- Item1
+  - Under1 item1
+  - Under2 item1
+
+- Item2
+  - Under1 item2
+  - Under2 item2
+
+- Item3
+  1) Mix Under1 item3
+  1) Mix Under2 item3
+
+- Item4
+  1) Mix Under1 item4
+  1) Mix Under2 item4
+
+Nested Items:
+
+1) Item1
+
+   paragraph
