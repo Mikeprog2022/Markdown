@@ -51,6 +51,10 @@ Images:
 
 Code:
 
+```python
+This inserts a code bar of the language i want
+```
+
 Inline = `this is code`
 
 ```
